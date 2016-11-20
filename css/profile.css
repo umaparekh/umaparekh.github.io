@@ -17,7 +17,12 @@
 
 .navbar-brand{
 	font-size: 30;
+	color: white;
 
+}
+
+.navbar-nav{
+	padding-top: 10px;
 }
 
 .nav-link{
@@ -29,16 +34,22 @@
 	text-align: center;
 }
 
-.display-1{
-	font-size: 80;
+.jumbotron .display-1 {
+	font-size: 150px;
+	font-weight: 500;
+	color: white;
+
 }
 
 .display-2{
-	font-size: 50;
+	font-size: 40;
+	color: white;
+	text-align: center;
 }
 
 .jumbotron{
   background-image: url("../img/pic1.jpg");
   background-size: cover;
-  color: black;
+  background-position: center;
+  color: white;
 }
