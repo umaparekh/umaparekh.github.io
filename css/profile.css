@@ -1,0 +1,44 @@
+.profile-picture{
+	max-width: 60%;
+
+}
+
+.card-text1{
+	text-align: center;
+}
+
+.card{
+	border-width: 3px;
+}
+
+.navbar-dark{
+	background-color: white;
+}
+
+.navbar-brand{
+	font-size: 30;
+
+}
+
+.nav-link{
+	font-size: 20;
+}
+
+.card-footer{
+	font-size: 35;
+	text-align: center;
+}
+
+.display-1{
+	font-size: 80;
+}
+
+.display-2{
+	font-size: 50;
+}
+
+.jumbotron{
+  background-image: url("../img/pic1.jpg");
+  background-size: cover;
+  color: black;
+}
